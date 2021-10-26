@@ -1,8 +1,10 @@
 # PyBer Analysis
+
 ## Purpose and Overview of Analysis
 - Clean, organize, and visualize weekly ridesharing date from PyBer for different city types.
 - Analyze different trends and patterns among the different city types to provide PyBer with recommendations for future business in these areas.
 ## Results
+
 ### Data Overview
 - The following graph shows the total number of rides versus the average fair per ride for each city.
 - There are fewer rides in rural areas but their fares are generally higher than those in urban areas.
